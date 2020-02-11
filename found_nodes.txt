@@ -1,0 +1,259 @@
+/
+├─┬ /indexx
+│ ├── /Sol_onsetx
+│ ├─┬ /allc
+│ │ └─┬ /wordswords
+│ │   └─┬ /isthisdata
+│ │     └── /ahhthethingsyouwillsee
+│ ├── /Altar
+│ ├─┬ /Terminal_Connect
+│ │ ├─┬ /Assistance
+│ │ │ ├─┬ /About_Angus
+│ │ │ │ ├── /Face
+│ │ │ │ ├─┬ /CoS
+│ │ │ │ │ ├── /index.html
+│ │ │ │ │ └─┬ /00_Crossroad
+│ │ │ │ │   └─┬ /00_Crossroad2
+│ │ │ │ │     └── /00_Dark
+│ │ │ │ ├─┬ /Interests
+│ │ │ │ │ ├── /frills
+│ │ │ │ │ ├── /dolls
+│ │ │ │ │ └── /endofdaylight
+│ │ │ │ ├─┬ /2245_2250
+│ │ │ │ │ ├─┬ /Terminal_111_Sky
+│ │ │ │ │ │ └─┬ /Terminal_111_Entity
+│ │ │ │ │ │   └─┬ /Terminal_111_Interview
+│ │ │ │ │ │     └─┬ /Terminal_111_Interview2
+│ │ │ │ │ │       └─┬ /Terminal_111_Interview3
+│ │ │ │ │ │         └─┬ /whitee
+│ │ │ │ │ │           ├─┬ /Terminal_111_Teeth
+│ │ │ │ │ │           │ └─┬ /Terminal_111_Lips
+│ │ │ │ │ │           │   └─┬ /Terminal_111_Lips2
+│ │ │ │ │ │           │     └─┬ /Terminal_111_Lips3
+│ │ │ │ │ │           │       └─┬ /Terminal_111_Area
+│ │ │ │ │ │           │         ├── /Terminal_111_Not_here
+│ │ │ │ │ │           │         └── /Terminal_111_Not_here2
+│ │ │ │ │ │           └── /Terminal_111_Message
+│ │ │ │ │ ├── /didyoujust
+│ │ │ │ │ └── /2245_2251
+│ │ │ │ ├─┬ /Arm_902
+│ │ │ │ │ ├─┬ /Arm_011
+│ │ │ │ │ │ ├── /disr.html
+│ │ │ │ │ │ ├── /dis.html
+│ │ │ │ │ │ └── /dism.html
+│ │ │ │ │ ├── /Arm_490
+│ │ │ │ │ ├── /Arm_002
+│ │ │ │ │ ├── /Arm_379
+│ │ │ │ │ ├── /Arm_243
+│ │ │ │ │ ├── /Arm_621
+│ │ │ │ │ ├── /Arm_999
+│ │ │ │ │ ├── /Arm_013
+│ │ │ │ │ ├── /Arm_730
+│ │ │ │ │ ├── /Error
+│ │ │ │ │ ├── /Arm_088
+│ │ │ │ │ └─┬ /dead_end
+│ │ │ │ │   └─┬ /dead.html
+│ │ │ │ │     └─┬ /end.html
+│ │ │ │ │       └─┬ /armerrorarmerrorarmerrorarm.html
+│ │ │ │ │         └─┬ /errrrr
+│ │ │ │ │           └── /illyas
+│ │ │ │ ├── /920031
+│ │ │ │ ├── /Space
+│ │ │ │ ├─┬ /Path
+│ │ │ │ │ └─┬ /Path2
+│ │ │ │ │   └─┬ /Yunar_unnce_prienst_breillen
+│ │ │ │ │     └─┬ /The_Gate
+│ │ │ │ │       └── /Veyous_nac
+│ │ │ │ └── /Ressant
+│ │ │ ├─┬ /Angus's_Works
+│ │ │ │ └─┬ /Stars_Bleed
+│ │ │ │   ├── /ChapterOne
+│ │ │ │   ├── /ChapterTwo
+│ │ │ │   └── /ChapterThree
+│ │ │ ├─┬ /Thoughts
+│ │ │ │ ├── /index
+│ │ │ │ ├── /update_post
+│ │ │ │ ├── /progress
+│ │ │ │ └─┬ /Thoughts2
+│ │ │ │   └── /messageave
+│ │ │ ├── /Connect
+│ │ │ ├── /Purpose
+│ │ │ ├── /Probedata
+│ │ │ ├── /Gathering
+│ │ │ ├── /CoS
+│ │ │ ├── /Voices
+│ │ │ ├── /Watchers
+│ │ │ ├── /Map
+│ │ │ └── /FAQ
+│ │ ├─┬ /Terminal_111
+│ │ │ ├─┬ /Terminal_111_Spine
+│ │ │ │ ├── /huh
+│ │ │ │ ├─┬ /isitsnow
+│ │ │ │ │ └─┬ /isit
+│ │ │ │ │   └─┬ /youtookthebait
+│ │ │ │ │     └── /nicetry
+│ │ │ │ ├─┬ /Terminal_111_Heart
+│ │ │ │ │ └── /Terminal_111_Blood
+│ │ │ │ ├─┬ /It_is_nothing
+│ │ │ │ │ └── /black
+│ │ │ │ ├─┬ /It_really_is_nothing
+│ │ │ │ │ ├─┬ /Terminal_111_Liver
+│ │ │ │ │ │ └─┬ /Terminal_111_Vein
+│ │ │ │ │ │   └─┬ /Terminal_111_S1
+│ │ │ │ │ │     ├── /Terminal_111_S2
+│ │ │ │ │ │     ├── /Terminal_111_S3
+│ │ │ │ │ │     ├── /Terminal_111_S4
+│ │ │ │ │ │     ├── /Terminal_111_S5
+│ │ │ │ │ │     ├── /Terminal_111_S6
+│ │ │ │ │ │     ├── /Terminal_111_S7
+│ │ │ │ │ │     ├── /Terminal_111_S8
+│ │ │ │ │ │     ├── /Terminal_111_S9
+│ │ │ │ │ │     ├── /Terminal_111_S10
+│ │ │ │ │ │     ├── /Terminal_111_S11
+│ │ │ │ │ │     ├── /Terminal_111_S12
+│ │ │ │ │ │     ├── /Terminal_111_S13
+│ │ │ │ │ │     ├── /Terminal_111_S14
+│ │ │ │ │ │     ├── /Terminal_111_S15
+│ │ │ │ │ │     ├── /Terminal_111_S16
+│ │ │ │ │ │     ├── /Terminal_111_S17
+│ │ │ │ │ │     ├── /Terminal_111_S18
+│ │ │ │ │ │     ├── /Terminal_111_S19
+│ │ │ │ │ │     ├── /Terminal_111_S20
+│ │ │ │ │ │     ├── /Terminal_111_S21
+│ │ │ │ │ │     ├── /Terminal_111_S22
+│ │ │ │ │ │     ├── /Terminal_111_S23
+│ │ │ │ │ │     ├── /Terminal_111_S24
+│ │ │ │ │ │     ├── /Terminal_111_S25
+│ │ │ │ │ │     ├── /Terminal_111_S26
+│ │ │ │ │ │     ├── /Terminal_111_S27
+│ │ │ │ │ │     ├── /Terminal_111_S28
+│ │ │ │ │ │     ├── /Terminal_111_S29
+│ │ │ │ │ │     ├── /Terminal_111_S30
+│ │ │ │ │ │     ├── /Terminal_111_S31
+│ │ │ │ │ │     ├── /Terminal_111_S32
+│ │ │ │ │ │     ├── /Terminal_111_S33
+│ │ │ │ │ │     ├── /Terminal_111_S34
+│ │ │ │ │ │     ├── /Terminal_111_S35
+│ │ │ │ │ │     ├── /Terminal_111_S36
+│ │ │ │ │ │     ├── /Terminal_111_S37
+│ │ │ │ │ │     ├── /Terminal_111_S38
+│ │ │ │ │ │     ├── /Terminal_111_S39
+│ │ │ │ │ │     └── /Terminal_111_S40
+│ │ │ │ │ └─┬ /s
+│ │ │ │ │   └── /ss
+│ │ │ │ └── /Really_really_nothing
+│ │ │ └── /white
+│ │ ├─┬ /Terminal_999999
+│ │ │ ├── /heehee
+│ │ │ ├─┬ /771y
+│ │ │ │ ├── /.html
+│ │ │ │ ├── /663v
+│ │ │ │ ├─┬ /884w
+│ │ │ │ │ ├── /die
+│ │ │ │ │ ├─┬ /555s
+│ │ │ │ │ │ ├─┬ /462d
+│ │ │ │ │ │ │ └─┬ /394o
+│ │ │ │ │ │ │   └─┬ /ESCAPE
+│ │ │ │ │ │ │     └── /LOOK
+│ │ │ │ │ │ ├── /123u
+│ │ │ │ │ │ ├── /343v
+│ │ │ │ │ │ └── /722n
+│ │ │ │ │ ├── /367r
+│ │ │ │ │ ├─┬ /EYES
+│ │ │ │ │ │ ├── /728x
+│ │ │ │ │ │ ├── /199z
+│ │ │ │ │ │ ├── /444e
+│ │ │ │ │ │ ├── /103w
+│ │ │ │ │ │ ├─┬ /999c
+│ │ │ │ │ │ │ └── /723x
+│ │ │ │ │ │ └─┬ /chillout
+│ │ │ │ │ │   ├─┬ /SEYE
+│ │ │ │ │ │   │ └── /lookuponthisansweranytime
+│ │ │ │ │ │   └─┬ /think
+│ │ │ │ │ │     └─┬ /Absolutely
+│ │ │ │ │ │       └─┬ /egg
+│ │ │ │ │ │         └── /indexx
+│ │ │ │ │ └── /663u
+│ │ │ │ ├── /000e
+│ │ │ │ ├── /742a
+│ │ │ │ ├── /297f
+│ │ │ │ ├── /529p
+│ │ │ │ ├── /222u
+│ │ │ │ ├── /482a
+│ │ │ │ ├── /601r
+│ │ │ │ ├── /983g
+│ │ │ │ ├── /981q
+│ │ │ │ └── /809j
+│ │ │ ├─┬ /Terminal_999999_Voices
+│ │ │ │ ├─┬ /Terminal_999999_Conversation
+│ │ │ │ │ └─┬ /Terminal_999999_Conversation2
+│ │ │ │ │   └─┬ /Terminal_999999_Conversation3
+│ │ │ │ │     └─┬ /Terminal_999999_Conversation4
+│ │ │ │ │       └─┬ /Terminal_999999_Conversation5
+│ │ │ │ │         └─┬ /Terminal_999999_Conversation6
+│ │ │ │ │           └─┬ /Terminal_999999_Realization
+│ │ │ │ │             └─┬ /Terminal_999999_Undiced
+│ │ │ │ │               ├─┬ /Terminal_999999_Excluded
+│ │ │ │ │               │ └─┬ /Terminal_999999_Excluded2
+│ │ │ │ │               │   └── /They_always_look
+│ │ │ │ │               └── /Terminal_999999_Unknown
+│ │ │ │ └── /Terminal_999999_Why
+│ │ │ └─┬ /Terminal_999999x
+│ │ │   └── /Terminal_999999x2
+│ │ ├─┬ /Terminal_44527
+│ │ │ ├─┬ /Terminal_44527_Red
+│ │ │ │ └── /Terminal_44527
+│ │ │ ├── /Terminal_44527_Blue
+│ │ │ ├── /Terminal_44527_Green
+│ │ │ ├── /Terminal_44527_Yellow
+│ │ │ ├── /Terminal_44527_Orange
+│ │ │ ├── /Terminal_44527_Purple
+│ │ │ ├── /Terminal_44527_Brown
+│ │ │ ├── /Terminal_44527_Teal
+│ │ │ ├── /Terminal_44527_Gold
+│ │ │ ├─┬ /Terminal_44527_Amber
+│ │ │ │ └── /Terminal_44527_Friend
+│ │ │ └── /Terminal_Connect
+│ │ └─┬ /Terminal_230
+│ │   └─┬ /Terminal_230_Remains
+│ │     └─┬ /Terminal_230_Remaining
+│ │       ├── /Terminal_230_Dead
+│ │       ├── /Terminal_230_Death
+│ │       ├── /Terminal_230_Deader
+│ │       └── /Terminal_230_Deadening
+│ ├── /Sacrifice
+│ └── /EYES
+├── /Sol_onset
+├── /Arcent
+├── /About_Angus
+├── /Angus's_Works
+├── /Thoughts
+├── /Connect
+├── /Assistance
+├─┬ /Irentae
+│ └─┬ /Irentaex
+│   └─┬ /Irentaexx
+│     └─┬ /Depth000Start
+│       └─┬ /000_Center
+│         ├─┬ /000_Grave
+│         │ └── /000_Grave_Mistake
+│         ├─┬ /000_Message
+│         │ ├── /000_Sellance
+│         │ ├── /000_4A-99
+│         │ ├── /000_Vayant
+│         │ ├── /000_Scarlet
+│         │ └── /000_Fold
+│         ├── /000_Retreat
+│         └─┬ /000_Deeper
+│           └─┬ /000_Deeper_Still
+│             └─┬ /000_Until_You_See_It
+│               └── /000_Noble
+└─┬ /00_Turn_Back
+  └─┬ /00_Turn_back_Now
+    └─┬ /00_No_Turning_Back
+      └─┬ /00_No_Mercy
+        └─┬ /00_Soon_You_Shall_See
+          └─┬ /00_Teeth
+            └─┬ /Truth
+              └── /The_One_WILL_Become_Whole_Once_More
+number of pages:  257
