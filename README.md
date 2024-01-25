@@ -8,5 +8,10 @@ Check [found_nodes.txt](found_nodes.txt) to see the output of the script ran at 
 ## Running
 Navigate to the project and run it with `node .` or `node index.js`.
 
+## Map
+Before this script was made, I made a map for fun of the nodes I had found manually. It has some overlap with the script results:
+![terminal00map](https://github.com/g-otn/terminal-00-navigator/assets/44736064/725dc319-719a-41d7-9f8b-d324b81722e0)
+The map was made in 2019-07, so it's most definitely partially outdated.
+
 ## Acknowledgements
 Thank you [aluisioalves123](https://github.com/aluisioalves123) for trying to find the deepest node with me, which motivated me to make this.
